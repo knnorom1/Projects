@@ -6,4 +6,6 @@ controllers.js - Controller for online real estate database demo'ed during the i
 
 Masters Dissertation - Security Analysis of RIOT operating system by Kelechi Nnorom.
 
-Java source files - Some code examples written by me
+Java source files - Some school assignments
+
+Masters & Bachelor Degrees
