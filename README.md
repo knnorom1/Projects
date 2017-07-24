@@ -8,4 +8,6 @@ Masters Dissertation - Security Analysis of RIOT operating system by Kelechi Nno
 
 Java source files - Some school assignments
 
+Erlang Project (Functional & Concurrent Programming) - Implementation of the classic "Dining Philosopher's Problem"
+
 Masters & Bachelor Degrees
