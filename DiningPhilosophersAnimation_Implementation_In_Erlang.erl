@@ -1,4 +1,4 @@
-% Erlang Assessment 4 - DIning Philosopher Animation
+% Erlang Dining Philosopher Animation
 % Kelechi Nnorom, Ken87, University of Kent
 % NOTE: PLEASE RUN IN FULL SCREEN. THE ANIMATION IS DESIGNED WITH A LARGE SCALE 
 
