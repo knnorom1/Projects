@@ -4,8 +4,6 @@ RedditApp.js - Controller for Hybrid Application that navigates to the Reddit si
 
 Masters Dissertation - Security Analysis of RIOT operating system by Kelechi Nnorom.
 
-Some Java source files
-
 Erlang Project (Functional & Concurrent Programming) - Implementation of the classic "Dining Philosopher's Problem"
 
 Masters & Bachelor Degrees
